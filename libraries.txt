@@ -1,0 +1,23 @@
+Python Libraries:
+
+Pandas: 
+Pandas is a python library that is used for working with data sets. It is used to analyse and manipulate datasets. Pandas has a DataFrame that is a two-dimensional tabular data structure. 
+
+NumPy:
+NumPy stands for Numerical Python. NumPy is used for working with arrays. It is used to create matrices that can be applied to ML models.
+
+Tensorflow:
+TensorFlow is a platform for ML with data flow graphs. Data flow graphs are structures that define how data flows through a set of processing nodes.
+
+Keras:
+Keras is a library that provides an interface for artificial neural networks. It is a high level API used to solve machine learning problems.
+
+Sklearn
+Scikit-learn is a machine learning and statistical modelling library in Python.
+
+Pytorch:
+Pytorch is a library  used for natural language processing applications, computer vision, and deep learning.PyTorch can be utilised in the computer neural network to develop object detection, generative application, and image classification.
+
+
+
+
